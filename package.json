@@ -1,0 +1,15 @@
+{
+  "name": "http_readers",
+  "version": "1.0.0",
+  "description": "A simple tool that scans a given website's HTTP response headers and generates a security-focused report. Useful for developers, penetration testers, and sysadmins to evaluate basic security practices like HTTPS usage, content security policy, and HSTS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0"
+  }
+}
